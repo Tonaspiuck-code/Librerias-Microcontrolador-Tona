@@ -23,7 +23,7 @@ Los valores que se muestran en la siguiente imagen son aquellos con los que cuen
 
 [ Aqui pueden ver la práctica del display.](https://www.youtube.com/watch?v=4McbrY2Yh8E&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=4  "ILista microcontroladores.")
 
-[ Aqui pueden ver la expliación de la libreria. ](https://www.youtube.com/watch?v=4Slq3BqHL1w&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel  "ILista microcontroladores.")
+[ Aqui pueden ver la expliación de la libreria. ](https://www.youtube.com/watch?v=8a_j8bGQ3tw&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=6  "ILista microcontroladores.")
 
 ---
 

@@ -2,7 +2,11 @@
  * File:   display7sega.h
  * Author: mecat
  *
- * Created on 2 febbraio 2026, 22.53
+ * ESTE SOFTWARE SE PROPORCIONA "AS IS" ("TAL CUAL"), SIN NINGUNA GARANTÍA...
+ * ...
+ * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND...
+ * 
+ * 
  */
 
 #ifndef DISPLAY7SEGA_H
