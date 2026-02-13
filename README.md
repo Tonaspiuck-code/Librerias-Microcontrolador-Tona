@@ -22,7 +22,8 @@ Este repositorio solamente es con el fin de poder proporcionar el código de las
 ## Las librerias que se agregan son:
 
 * [Display 7 segmentos (ánodo común)](./Display7Seg/ "Go to display 7 seg documentation") 
-* [Teclado matricial 4x4](./Teclado4x4/ "Go to RAMs documentation")
+* [Teclado matricial 4x4](./Teclado4x4/ "Go to teclado documentation")
+* [LCD (HD44780)](./LCD_HD44780/ "Go to LCD documentation")
 <!-- 
 * [Counters](./Counters/ "Go to Counters documentation")
 -->
