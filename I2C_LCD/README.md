@@ -17,16 +17,16 @@ Deben de tomar las siguitens consideraciones:
 
 [ Aqui pueden ver los videos en orden. ](https://www.youtube.com/watch?v=4Slq3BqHL1w&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel  "Lista microcontroladores.")
 
-[ Aqui pueden ver la primera parte del i2c.](https://www.youtube.com/watch?v=4McbrY2Yh8E&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=4  "Lista microcontroladores.")
+[ Aqui pueden ver la primera parte del i2c.](https://www.youtube.com/watch?v=P4U-vwtpYno&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=36  "Lista microcontroladores.")
 
-[ Aqui pueden ver la sefunda parte del i2c. ](https://www.youtube.com/watch?v=8a_j8bGQ3tw&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=6  "Lista microcontroladores.")
+[ Aqui pueden ver la sefunda parte del i2c. ](https://www.youtube.com/watch?v=8a_j8bGQ3tw&list=PL3E9VJdKIfILVzbyptj5JNysUtyaPjuel&index=37  "Lista microcontroladores.")
 
 ---
 
 
 
 
-* [Regresar a la página principal](../ "Return")
+* [Regresar a la página principal]( ../ "Return")
 <!-- 
 * [Teclado matricial 4x4](./RAMs/ "Go to RAMs documentation")
  
