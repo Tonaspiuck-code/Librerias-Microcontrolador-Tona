@@ -1,6 +1,6 @@
 /* 
- * File:   display7sega.h
- * Author: Tonaspiuck
+ * File:   display7segc.h
+ * Author: tonaspiuck
  *
  * ESTE SOFTWARE SE PROPORCIONA "AS IS" ("TAL CUAL"), SIN NINGUNA GARANTÍA...
  * ...
@@ -9,8 +9,8 @@
  * 
  */
 
-#ifndef DISPLAY7SEGA_H
-#define	DISPLAY7SEGA_H
+#ifndef DISPLAY7SEGC_H
+#define	DISPLAY7SEGC_H
 
 //#include <xc.h>
 
